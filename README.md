@@ -27,6 +27,8 @@ The web service is hosted on Render.
 ├─ README.md
 ```
 
+## Deployed Backend
+```https://bitespeed-3vmk.onrender.com```
 
 ## Features
 Key Features
